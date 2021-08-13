@@ -1,4 +1,4 @@
-<!-- Space: BASE-TEMPLATE -->
+<!-- Space: SLIDES-TEMPLATE -->
 <!-- Title: Troubleshooting -->
 
 # Troubleshooting
