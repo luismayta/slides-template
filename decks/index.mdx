@@ -1,12 +1,33 @@
-import { Notes, Appear } from 'mdx-deck'
 import { CodeSurfer } from "code-surfer"
-import myTheme from './styles'
-export const theme = myTheme
+import processThinking from './images/process-thinking.jpg'
+import oceanicNext  from "./theme"
+import {Appear, Notes, Head} from 'mdx-deck';
+import 'prismjs/components/prism-shell-session'
+import "prismjs/components/prism-hcl"
+import "prismjs/components/prism-markdown"
+export const theme = oceanicNext
 
+<Head>
+  <title>Slides Template</title>
+</Head>
 
 ## Slides Template
 
-Hadenlabs | [hadenlabs](https://github.com/hadenlabs)
+---
+
+## IaC Challenger | Terraform
+
+- [@hadenlabs | Hadenlabs.com](https://github.com/hadenlabs)
+
+---
+
+### No Tenemos Tiempo
+
+<Appear>
+
+<Image src={processThinking} style={{ backgroundSize: 'auto' }} />
+
+</Appear>
 
 ---
 
