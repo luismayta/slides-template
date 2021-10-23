@@ -1,4 +1,5 @@
-<!-- Space: SLIDES-TEMPLATE -->
-<!-- Title: FAQ -->
+<!-- Space: SlidesTemplate -->
+<!-- Parent: Project -->
+<!-- Title: Faq -->
 
 # Faq

@@ -1,4 +1,5 @@
-<!-- Space: SLIDES-TEMPLATE -->
-<!-- Title: Support & Contact -->
+<!-- Space: SlidesTemplate -->
+<!-- Parent: Project -->
+<!-- Title: Support and Contact -->
 
 # Support & Contact
