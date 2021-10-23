@@ -1,5 +1,6 @@
-<!-- Space: SLIDES-TEMPLATE -->
-<!-- Title: Code Of Conduct -->
+<!-- Space: SlidesTemplate -->
+<!-- Parent: Project -->
+<!-- Title: Code of Conduct -->
 
 # Contributor Covenant Code of Conduct
 

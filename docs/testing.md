@@ -1,4 +1,5 @@
-<!-- Space: SLIDES-TEMPLATE -->
+<!-- Space: SlidesTemplate -->
+<!-- Parent: Project -->
 <!-- Title: Testing -->
 
 # Testing

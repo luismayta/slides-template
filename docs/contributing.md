@@ -1,4 +1,5 @@
-<!-- Space: SLIDES-TEMPLATE -->
+<!-- Space: SlidesTemplate -->
+<!-- Parent: Project -->
 <!-- Title: How To Contribute -->
 
 # How To Contribute
