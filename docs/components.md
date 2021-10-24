@@ -1,11 +1,11 @@
 <!-- Space: SlidesTemplate -->
 <!-- Parent: Project -->
-<!-- Title: Commands -->
+<!-- Title: Components -->
 
 <!-- Label: SlidesTemplate -->
 <!-- Label: Project -->
-<!-- Label: Commands -->
+<!-- Label: Components -->
 <!-- Include: docs/disclaimer.md -->
 <!-- Include: ac:toc -->
 
-## Commands
+# components
