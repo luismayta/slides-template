@@ -15,7 +15,7 @@
 
   -->
 
-[![Latest Release](https://img.shields.io/github/release/hadenlabs/slides-template)](https://github.com/hadenlabs/slides-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/slides-template/lint-code)](https://github.com/hadenlabs/slides-template/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com)
+[![Latest Release](https://img.shields.io/github/release/hadenlabs/slides-template)](https://github.com/hadenlabs/slides-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/slides-template/lint-code)](https://github.com/hadenlabs/slides-template/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org)
 
 # slides-template
 
@@ -31,7 +31,6 @@ slides-template for project
 
 This is a list of plugins that need to be installed previously to enjoy all the goodies of this configuration:
 
-- [Pyenv](https://github.com/pyenv/pyenv)
 - [Docker](https://www.docker.com)
 - [python](https://www.python.org)
 - [taskfile](https://github.com/go-task/task)
