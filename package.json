@@ -2,6 +2,7 @@
   "name": "@hadenlabs/slides-template",
   "version": "0.0.0",
   "description": "slides-template",
+  "main": "index.js",
   "author": "Luis Mayta <slovacus@gmail.com>",
   "license": "LGPL-3.0",
   "engines": {
@@ -32,7 +33,6 @@
     "url": "git+https://github.com/hadenlabs/slides-template.git"
   },
   "keywords": [
-    "story-user",
     "slides",
     "hadenlabs"
   ],
@@ -48,8 +48,7 @@
     "mdx-deck": "3.0.13",
     "prismjs": "^1.25.0",
     "react": "16.12.0",
-    "react-dom": "16.12.0",
-    "victormono": "^1.4.2"
+    "react-dom": "16.12.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.22.1",
@@ -60,6 +59,7 @@
     "eslint-plugin-prettier": "^3.4.1",
     "eslint-plugin-promise": "^5.1.1",
     "prettier": "^2.2.1",
+    "website-pdf": "4.1.0",
     "prettier-eslint": "^12.0.0"
   },
   "prettier": "./.github/linters/prettier.config.js"

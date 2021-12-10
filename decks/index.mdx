@@ -1,25 +1,36 @@
 import { CodeSurfer } from "code-surfer"
+import {Appear, Notes, Image, Split, Head} from 'mdx-deck';
+
 import processThinking from './images/process-thinking.jpg'
-import oceanicNext  from "./theme"
-import {Appear, Notes, Head} from 'mdx-deck';
+
 import 'prismjs/components/prism-shell-session'
 import "prismjs/components/prism-hcl"
 import "prismjs/components/prism-markdown"
-export const theme = oceanicNext
 
-<Head>
-  <title>Slides Template</title>
-</Head>
+import {FlexLayout, Video, BackgroundLayout} from './components';
+import Provider from './provider';
+import myTheme from './theme';
+
+export const theme = myTheme;
+
+<BackgroundLayout bg="#3880FF" alignItems="center">
+<div style="text-align: center">
 
 ## Slides Template
 
+</div>
+
+</BackgroundLayout>
+
 ---
 
-## IaC Challenger | Terraform
+## Title | Theme
 
 - [@hadenlabs | Hadenlabs.com](https://github.com/hadenlabs)
 
 ---
+
+<FlexLayout direction="column" justify="space-evenly">
 
 ### No Tenemos Tiempo
 
@@ -29,15 +40,25 @@ export const theme = oceanicNext
 
 </Appear>
 
+</FlexLayout>
+
 ---
+
+<FlexLayout direction="column" justify="space-evenly">
 
 ## Agenda
 
 - Title 1.
 - Title 2.
 - Title 3.
+- Title 4.
+- Title 5.
+
+</FlexLayout>
 
 ---
+
+<FlexLayout alignItems="center">
 
 ## Example
 
@@ -45,8 +66,46 @@ export const theme = oceanicNext
 
 ```markdown
 
-    text
+  ## Requirements
+
+  This is a list of plugins that need to be installed previously to enjoy all the goodies of this configuration:
+
+  - [Pyenv](https://github.com/pyenv/pyenv)
+  - [Docker](https://www.docker.com)
+  - [python](https://www.python.org)
+  - [taskfile](https://github.com/go-task/task)
 
 ```
 
 </CodeSurfer>
+
+</FlexLayout>
+
+---
+
+<FlexLayout>
+
+## Example
+
+```markdown
+
+  ## Requirements
+
+  This is a list of plugins that need to be installed previously to enjoy all the goodies of this configuration:
+
+  - [Pyenv](https://github.com/pyenv/pyenv)
+  - [Docker](https://www.docker.com)
+  - [python](https://www.python.org)
+  - [taskfile](https://github.com/go-task/task)
+
+```
+
+</FlexLayout>
+
+---
+
+<FlexLayout>
+
+# Q&amp;A
+
+</FlexLayout>
