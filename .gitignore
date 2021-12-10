@@ -147,6 +147,12 @@ dist
 # Serverless Webpack directories
 .webpack/
 
+# Optional stylelint cache
+.stylelintcache
+
+# SvelteKit build / generate output
+.svelte-kit
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -318,6 +324,7 @@ zsdoc/data
 
 # End of https://www.toptal.com/developers/gitignore/api/python,node,go,zsh,sonar
 # custom git ignore files
+*.lock.hcl
 .scannerwork
 .secrets
 .task
